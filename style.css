@@ -1,0 +1,28 @@
+.button {
+  background-color: lightgray;
+  float: left
+}
+#count {
+  position: absolute;
+  text-align: center;
+}
+
+#racket1 {
+  background-color: green;
+  position: absolute;
+}
+#racket2 {
+  background-color: purple;
+  position: absolute;  
+}
+#ball {
+  background-color: red;
+  border-radius: 50%;
+  position: absolute
+}
+#field {
+  background-color: #FFEB3B;
+  position: absolute;
+  border: solid 1px grey;
+
+}
